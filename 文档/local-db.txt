@@ -1,0 +1,6 @@
+数据库名称:
+    atguigu_seata_account
+    atguigu_seata_order
+    atguigu_seata_storage
+    seata
+对应同名sql执行即可
